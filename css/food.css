@@ -1,0 +1,30 @@
+/****** Tag Selector ******/
+body{
+    background-color: #FCF3CF;
+}
+hr{
+   border-style: none; 
+   border-top-style: dotted;
+   border-color: #E74C3C;
+   border-width: 5px;
+   width: 10%;
+}
+
+img{
+    background-color: black;
+}
+
+/****** Class Selector *****/
+.non_veg:hover{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
+
+/****** ID Selector ******/
+#logo{
+    background-color: #FCF3CF;
+}
+#veg_receipe{
+    background-color: green;
+}
