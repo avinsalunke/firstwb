@@ -1,0 +1,70 @@
+.net{
+    text-decoration: underline;
+}
+
+
+.display1{
+    background-color: red;
+    width: 100px;
+}
+
+.mid_display1{
+    background-color: yellow;
+    width: 100px;
+}
+
+.display2{
+    background-color: red;
+    width: 100px;
+    display: inline;
+}
+
+.mid_display2{
+    background-color: yellow;
+    width: 100px;
+    display: block;
+}
+
+.display3{
+    background-color: red;
+    width: 100px;
+    display: inline-block;
+}
+
+.mid_display3{
+    background-color: yellow;
+    width: 100px;
+}
+
+.display4{
+    background-color: red;
+    width: 100px;
+    display: inline-block;
+}
+.display_none{
+    background-color: red;
+    width: 100px;
+    display: none;
+}
+
+.mid_display4{
+    background-color: yellow;
+    width: 100px;
+}
+
+.display5{
+    background-color: red;
+    width: 100px;
+    display: inline-block;
+}
+.display_visibility{
+    background-color: red;
+    width: 100px;
+    display: inline-block;
+    visibility: hidden;
+}
+
+.mid_display5{
+    background-color: yellow;
+    width: 100px;
+}
